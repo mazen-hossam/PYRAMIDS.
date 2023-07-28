@@ -1,0 +1,888 @@
+*{
+    margin: 0 auto;
+    font-family: 'Domine';
+}
+.background{
+    background-color: #182634;
+    width: 98.9vw;
+    height: 100vh;
+    display: inline-block;
+}
+.row{
+    margin-right: 30rem;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+}
+.col{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-bottom: 5%;
+    transition: 0.7 ease;
+}
+.col:hover{
+    color: #66a9e3;
+    font-size: 1rem;
+   
+    transform: scale(1.1);
+
+}
+.page1{
+    background: url(./man-image-ancient-egyptian-pharaoh-with-mask-his-face.jpg)center/cover;
+   margin-top: 25%;
+    margin: 0;
+    display: inline-block;
+    width: 95%;
+    height: 83.4%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    background-attachment: fixed;
+}
+.text1{
+    background-color: #66a9e3;
+    width: 27%;
+    margin-right: 5%;
+    margin-top: -5%;
+    height: 55%;
+    
+}
+.btn{
+    color: white;
+   margin-left: 26%;
+    width: 45%;
+    margin-top: -1rem;
+    transition: 0.7 ease;
+}
+.btn:hover{
+    color: #66a9e3;
+    font-size: 1rem;
+   
+    transform: scale(1.1);
+}
+.margin{
+    margin: 3%;
+} 
+
+.center1{
+    padding-top: 6%;
+    text-align: center;
+   
+
+}
+.icon1{
+    width: 55%;
+    height: 15%;
+    
+   margin-left: 23%;
+    margin-top: 5%;
+    display: inline-block;
+}
+.icon2{
+    width: 55%;
+    height: 15%;
+   margin-left: 25%;
+    margin-top: 5%;
+    display: inline-block;
+}
+.icon3{
+    width: 55%;
+    height: 15%;
+   margin-left: 23%;
+    margin-top: 5%;
+    display: inline-block;
+}
+.padding{
+    margin-top: 4%;
+    width: 2%;
+    background-color: #66a9e3;
+    height: 22%;
+    margin-left: 101%;
+    border-radius:1.5rem;
+   
+}
+
+.video{
+    margin-top: 10%;
+    margin-left: 1.5%;
+   display: inline-block;
+    width: 50%;
+    
+}
+p{
+    margin-top: -1.5rem;
+}
+.background2{
+    background-color: white ;
+    height: 45rem;
+}
+.img1{
+    width: 42%;
+    float: right;
+    margin-right: 5%;
+    margin-top: 10%;
+   
+    
+   
+}
+.card{
+    height: 35rem;
+    display: inline-block;
+    width: 19rem;
+    margin-right: 1rem;
+    background-color: #182634;
+   margin-top: 3.7%;
+   margin-left: 7%;
+   border-radius: 0;
+  border: 0;
+
+}
+.img{
+    width: 19rem;
+    height: 330px;
+    display: inline-block;
+   
+}
+.text{
+    margin-left: 5rem;
+    margin-top: 1rem;
+    color: white;
+}
+
+.text2{
+    margin-left: 0.5rem;
+   margin-top: 1rem;
+}
+
+.btn{
+    margin-left: 6rem;
+    margin-top: -1rem;
+}
+.background3{
+    background-color: #182634;
+    width: 98.9vw;
+    height: 120vh;
+    display: inline-block;
+   
+}
+.center2{
+    padding-left: 30%;
+    margin-top: 4%;
+    
+}
+
+.text2{
+    color:gold;
+    padding: 1.5rem;
+    font-size: x-large;
+    letter-spacing: .9rem;
+    word-spacing: 1rem;
+    background-color: #182634;
+    text-align: center;
+}
+.img2{
+    width: 18.9rem;
+    height: 330px;
+    display: inline-block;
+   
+}
+.text3{
+    text-align: center;
+    margin-top: 2rem;
+    color: white;
+}
+.design{
+    color: gold;
+    text-decoration: none;
+    
+}
+.btnn{
+    margin-right: 3rem;
+    margin-top: 3rem;
+   
+
+}
+.text4{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    color: white;
+}
+.line1{
+    border-bottom:2.5px solid gold;
+    margin-left: 2rem;
+   margin-bottom: 1rem;
+    width: 15rem;
+}
+.line2{
+    border-bottom:2.5px solid gold;
+    margin-left: 1rem;
+   margin-bottom: 1rem;
+    width: 17rem;
+}
+.line3{
+    border-bottom:2.5px solid gold;
+    margin-left: 2.5rem;
+   margin-bottom: 1rem;
+    width: 13rem;
+}
+
+.background5{
+    width: 90rem;
+    background-color: white;
+}
+.text5{
+    font-size: 3rem;
+    text-align: center;
+   background-color: #90abc7;
+   margin-top: 3rem;
+   padding-top: 4rem;
+   padding-bottom: 20rem;
+}
+.text6{
+   margin-top: -20rem;
+   margin-bottom: 2rem;
+    text-align: center;
+    width: 30rem;
+}
+.bttn{
+    margin-left: 37rem;
+    margin-top: -1rem;
+    width: 20rem;
+    margin-bottom: 1rem;
+   
+}
+.designn{
+    color: white;
+    text-decoration: none; 
+}    
+.designn:hover{
+    color: #90abc7;
+}  
+.background6{
+    background-image: url('./pexels-abd-elhamid-zaki-13754840.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.row1{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background-color: #182634;
+    width: 100%;
+    margin-top: -0.3rem;
+}
+.row1:hover{
+    color: #66a9e3;
+}
+
+.space{
+    width: 60rem;
+    height: 35rem;
+    background-color: #182634;
+    display: inline-block;
+    margin-top: 4rem;
+    margin-left: 18rem;
+  
+    border: 0.4rem solid #182634;
+  }
+
+.img4{
+    height:34.2rem;
+    width: 59.2rem;
+    display: inline-block;
+  }
+.words{
+    text-align: center;
+    margin-top: 5rem;
+    color:white;
+    padding: 1.5rem;
+    font-size: 3rem;
+    letter-spacing: .9rem;
+    word-spacing: 1rem;
+    background-color: #182634;
+}
+.line4{
+    border-bottom:2.5px solid #182634;
+    margin-left: 25rem;
+   margin-bottom: 1rem;
+    width: 30rem;
+}
+
+
+
+.page2{
+   background: url(./pexels-abd-elhamid-zaki-13754840.jpg);
+   width:90%;
+   margin-left: 4.5rem;
+   margin-right: 3rem;
+   margin-top: 10rem;
+   height: 35rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    background-attachment: fixed;
+}
+/* .img5{
+   width:70%;
+   margin-left: 15rem;
+   margin-top: 2rem;
+   height: 35rem;
+} */
+.iconss{
+    margin-left: 91.9rem;
+    font-size: 1.5rem;
+    margin-top: 5rem;
+    display: inline-block;
+    transition: 0.7 ease;
+}
+.iconss a{
+    font-size: 1.5rem;
+    color: white;
+}
+.iconss a :hover{
+    font-size: 2rem;
+    color: white;
+    transform: scale(1.1);
+   
+}
+.text7{
+    background-color: #66a9e3;
+    width: 60%;
+    margin-right: 25%;
+    margin-top: -9%;
+    height: 48%;
+    display: inline-block;
+    margin-left: 20.2%;
+    
+}
+.marginn{
+    margin: 2%;
+} 
+
+.center3{
+    padding-top: 5%;
+    text-align: center;
+    display: inline-block;
+   margin-left: 16rem;
+   font-family: 'Domine', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif Vithkuqi', serif;
+}
+.pp{
+    margin-top: -0.2rem;
+    margin-left: 12%;
+    margin-right: 12%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.roww{
+   
+    background-color: #182634;
+    width: 98.9vw;
+    display: inline-block;
+}
+.background8{
+    background-color: white;
+    width: 98.9vw;
+    height: 100vh;
+    display: inline-block;
+}
+.text8{
+    margin-top: 20rem;
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+    padding-bottom: 5rem;
+}
+.img5{
+    width: 30rem;
+    display: inline-block;
+    margin-left: 13rem;
+}
+.text9{
+    width: 33rem;
+    margin-left: 45rem;
+    font-size: small;
+    margin-top: -20rem;
+    text-transform: capitalize;
+    color: dimgrey;
+}
+.text10{
+    width: 33rem;
+    margin-left: 45rem;
+    font-size: small;
+    margin-top: -1rem;
+    text-transform: capitalize;
+    color: dimgrey;
+}
+.page3{
+    margin-bottom: 18rem;
+}
+.page4{
+    background: url(./female-abu-simbel-temple-southern-egypt-lake-nasser.jpg);
+    margin-left: 5rem;
+    margin-right: 5rem;
+   
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    background-attachment: fixed;
+}
+
+.marginnn{
+    margin: 2%;
+} 
+.ppp{
+    margin-top: 4rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.7rem;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+}
+
+.text11{
+    background-color: #66a9e3;
+    width: 60%;
+    margin-right: 20%;
+    margin-top: -9%;
+    height: 48%;
+    display: inline-block;
+    margin-left: 20%;
+    
+}
+.iconsss{
+    margin-left: 82rem;
+    font-size: 1.5rem;
+   margin-bottom: 3rem;
+    margin-top: -5rem;
+    transition: 0.7 ease;
+}
+.iconsss a{
+    color: white;
+    margin-right: 0.9rem;
+    font-size: 1.5rem;
+}
+.iconsss a :hover{
+    font-size: 2rem;
+    color: white;
+    transform: scale(1.1);
+   
+}
+.iconssss{
+    margin-left: 91.9rem;
+    font-size: 1.5rem;
+    margin-top: -25rem;
+   
+    transition: 0.7 ease;
+}
+.iconssss a{
+    font-size: 2rem;
+    color: #182634;
+}
+.iconssss a :hover{
+    font-size: 2rem;
+    color: #182634;
+    transform: scale(1.1);
+   
+}
+.background9{
+    background-color: white;
+    width: 98.9vw;
+    height: 100vh;
+    display: inline-block;
+}
+.page5{
+    background: url(./low-angle-shot-main-entrance-temple-horus-edfu-egypt.jpg);
+    width:90%;
+    margin-left: 4.5rem;
+    margin-right: 3rem;
+    margin-top: 10rem;
+    height: 35rem;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:center ;
+     background-attachment: fixed;
+ }
+
+ .text12{
+    margin-top: 20rem;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+    padding-bottom: 3rem;
+    width: 35rem;
+}
+.card2{
+    height: 33rem;
+    display: inline-block;
+    width: 18.8rem;
+    margin-right: 1rem;
+    background-color:white;
+    border: 0.1px solid rgb(206, 195, 195);
+    margin-left: 7%;
+    margin-top: 1rem;
+}
+.text13{
+    margin-left: 5rem;
+    margin-top: 1rem;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+
+}
+.text14{
+    margin-left: 2.8rem;
+    width: 15rem;
+    font-size: 0.9rem;
+   margin-top: 1rem;
+   color: #423f3f;
+}
+.oo{
+    color: #423f3f;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: -1rem;
+}
+.img6{
+    width: 250px;
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+    height: 300px;
+    display: inline-block;
+    margin-top: 1rem;
+    height: 15rem;
+}
+.button{
+    margin-left: 1.5rem;
+    background-color: black;
+    width: 16rem;
+    height: 2.4rem;
+    border-radius: 2rem;
+    color: white;
+    display: inline-block;
+    margin-top: 2.5rem;
+    font-size: smaller;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+.line5{
+    border-bottom:1.5px solid #423f3f;
+   
+    margin-top: 2.5rem;
+    width: 15rem;
+}
+.ii{
+    color: #423f3f;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    font-style: italic;
+}
+.page6{
+    background: url(./pexels-shvets-anna-2570068.jpg);
+    width:90%;
+    margin-left: 4.5rem;
+    margin-right: 3rem;
+    margin-top: 10rem;
+    height: 40rem;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:center ;
+     background-attachment: fixed;
+ }
+ .marginnnn{
+    margin: 2%;
+} 
+.pppp{
+    margin-top: 4rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.7rem;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+}
+
+.text15{
+    background-color: #66a9e3;
+    width: 60%;
+    margin-right: 20%;
+    margin-top: -9%;
+    height: 48%;
+    display: inline-block;
+    margin-left: 20%;
+    
+}
+
+.button2{
+    margin-left: 33rem;
+    margin-top: 3rem;
+    width: 30rem;
+    margin-bottom: -5rem;
+    border-radius: 2rem;
+    background-color: black;
+    color: white;
+}
+.button2:hover{
+    background-color: white;
+    color: black;
+}
+
+.button3{
+    margin-left: 6.5rem;
+    margin-top: -2.2rem;
+    width: 10rem;
+    margin-bottom: -5rem;
+    border-radius: 2rem;
+    background-color: black;
+    color: white;
+    height: 2.2rem;
+}
+.button3:hover{
+    background-color:#66a9e3;
+    color: black;
+}
+
+.button4{
+    margin-left: 5.5rem;
+    margin-top: -2.2rem;
+    width: 30rem;
+    margin-bottom: -5rem;
+    border-radius: 2rem;
+    background-color: black;
+    color: white;
+    height: 2.2rem;
+}
+.button4:hover{
+    background-color:white;
+    color: black;
+}
+
+.button5{
+    margin-left: 42rem;
+    margin-top: -1rem;
+    width: 10rem;
+    margin-bottom: 1rem;
+    border-radius: 2rem;
+    background-color: black;
+    color: white;
+    height: 2.2rem;
+}
+.button5:hover{
+    background-color:#90abc7;
+    color: black;
+}
+.iconsssss{
+    margin-left: 91.9rem;
+    font-size: 1.5rem;
+    margin-top: 20rem;
+    
+    transition: 0.7 ease;
+}
+.iconsssss a{
+    font-size: 2rem;
+    color: #182634;
+}
+.iconsssss a :hover{
+    font-size: 2rem;
+    color: #182634;
+    transform: scale(1.1);
+   
+}
+.text18{
+    margin-top: -30rem;
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+    padding-bottom: 5rem;
+}
+.img15{
+    width: 30rem;
+    display: inline-block;
+    margin-left: 13rem;
+    height: 20rem;
+}
+.text19{
+    width: 33rem;
+    margin-left: 45rem;
+    font-size: small;
+    margin-top: -20rem;
+    text-transform: capitalize;
+    color: dimgrey;
+}
+.text100{
+    width: 33rem;
+    margin-left: 45rem;
+    font-size: small;
+    margin-top: -1rem;
+    text-transform: capitalize;
+    color: dimgrey;
+}
+.page10{
+    margin-top: 5rem;
+}
+.page11{
+    margin-top: 5rem;
+}
+.page12{
+    margin-top: 5rem;
+}
+.page13{
+    margin-top: 5rem;
+}
+.page14{
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+.img16{
+    width: 30rem;
+    display: inline-block;
+    margin-left: 13rem;
+    height: 20rem;
+}
+.img17{
+    width: 30rem;
+    display: inline-block;
+    margin-left: 13rem;
+    height: 20rem;
+}
+.img18{
+    width: 30rem;
+    display: inline-block;
+    margin-left: 13rem;
+    height: 20rem;
+}
+.img20{
+    width: 30rem;
+    display: inline-block;
+    margin-left: 13rem;
+    height: 20rem;
+}
+.fa-solid{
+    margin-right: 0.5rem;
+} 
+.carousel-inner{
+    width: 90rem;
+    margin-top: 2rem;
+    height: 50rem;
+}
+.text101{
+    margin-top: 10rem;
+    text-align: center;
+    
+}
+.line6{
+    border-bottom:1.5px solid #423f3f;
+   
+    margin-top: 0.5rem;
+    width: 5rem;
+}
+/* .videoo{
+    width: 35rem;
+    display: inline-block;
+    margin-left: 8rem;
+    margin-top: 2rem;
+} */
+.container50{
+    width: 45rem;
+}
+.page50{
+    background: url(./pexels-abd-elhamid-zaki-13754840.jpg);
+    width:90%;
+    margin-left: 4.5rem;
+    margin-right: 3rem;
+    margin-top: -23rem;
+    height: 35rem;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:center ;
+     background-attachment: fixed;
+ }
+ .text70{
+    background-color: #66a9e3;
+    width: 60%;
+    margin-right: 25%;
+    margin-top: -9%;
+    height: 48%;
+    display: inline-block;
+    margin-left: 20.2%;
+    
+}
+.margi{
+    margin: 2%;
+} 
+
+.cente{
+    padding-top: 5%;
+    text-align: center;
+    display: inline-block;
+   margin-left: 16rem;
+   font-family: 'Domine', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif Vithkuqi', serif;
+}
+.vv{
+    margin-top: -0.2rem;
+    margin-left: 12%;
+    margin-right: 12%;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.lastname{
+  width:20rem;
+    margin-left: 21rem;
+    margin-top: -4.6rem;
+
+}
+.firstname{
+    width:20rem;
+    margin-left: 0.1rem;
+}
+.text130{
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+
+}
+.text131{
+    margin-left: 3.5rem;
+    margin-top: 1rem;
+   
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+
+}
+.text132{
+    margin-left: 3.5rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+
+}
